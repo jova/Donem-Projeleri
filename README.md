@@ -1,2 +1,3 @@
-# Dönem Projeleri
-Üniversite hayatım boyunca üzerinde çalıştığım ödev projelerini dönem dönem branch olarak eklemekteyim.
+# İkinci Dönem Projesi
+Bu dönemde yine C dili ile iki farklı proje geliştirdik.
+Bir projede sıralama algoritması kullanırken diğerinde dosya yönetimine el attık.
